@@ -79,3 +79,23 @@ The wireframe in the **Project-Airbnb Figma file** is a **High-Fidelity Wirefram
 - This level of detail makes it suitable for **testing user flows, validating design decisions, and preparing for the prototyping phase**.
 
 ---
+
+## Popular Wireframing Tools
+
+There are several tools available for creating wireframes, each with its own strengths:
+
+- **Figma** – A browser-based, collaborative design tool.
+- **Sketch** – A popular macOS app for UI/UX design.
+- **Adobe XD** – Part of Adobe Creative Cloud, useful for both wireframing and prototyping.
+- **Balsamiq** – Specializes in low-fidelity, hand-drawn-style wireframes.
+
+### Why Figma?
+
+Figma is highly recommended for wireframing and prototyping because of its:
+
+- **Collaboration:** Multiple team members can work together in real time.
+- **Accessibility:** Runs directly in the browser, with desktop and mobile apps also available.
+- **Scalability:** Easily transition from low-fidelity wireframes to high-fidelity prototypes within the same tool.
+- **Developer Handoff:** Provides design specifications and assets, making it easy for developers to implement.
+
+---
