@@ -14,32 +14,68 @@ Wireframing is a **blueprint** or **skeletal framework** of a website or applica
 
 ---
 
-✨ _In short, wireframing is an essential first step that bridges the gap between ideas and fully functional designs._
+## Key Elements of a Wireframe
 
-## Key Elements of a Wireframe  
+Wireframes typically include four key elements. Each plays a crucial role in shaping the user experience:
 
-Wireframes typically include four key elements. Each plays a crucial role in shaping the user experience:  
+### 1. Layout Structure
 
-### 1. Layout Structure  
-Defines how elements are arranged on the page.  
-- **Example:** A landing page might feature a header at the top, a hero image in the center, and a call-to-action button below.  
-- **Contribution:** Ensures content is organized logically and improves readability.  
+Defines how elements are arranged on the page.
 
-### 2. Navigation  
-Outlines how users move through the site or application.  
-- **Example:** A navigation bar at the top or side that links to "Home," "About," and "Contact" sections.  
-- **Contribution:** Provides users with a clear path, improving usability and reducing confusion.  
+- **Example:** A landing page might feature a header at the top, a hero image in the center, and a call-to-action button below.
+- **Contribution:** Ensures content is organized logically and improves readability.
 
-### 3. Content Placement  
-Shows where text, images, and multimedia elements will be positioned.  
-- **Example:** Placing product descriptions next to product images in an e-commerce layout.  
-- **Contribution:** Helps prioritize information, ensuring users focus on the most important content first.  
+### 2. Navigation
 
-### 4. Functionality  
-Highlights interactive features and behaviors.  
-- **Example:** Buttons, search bars, forms, and dropdown menus.  
-- **Contribution:** Demonstrates how users will interact with the product, guiding developers on required features.  
+Outlines how users move through the site or application.
+
+- **Example:** A navigation bar at the top or side that links to "Home," "About," and "Contact" sections.
+- **Contribution:** Provides users with a clear path, improving usability and reducing confusion.
+
+### 3. Content Placement
+
+Shows where text, images, and multimedia elements will be positioned.
+
+- **Example:** Placing product descriptions next to product images in an e-commerce layout.
+- **Contribution:** Helps prioritize information, ensuring users focus on the most important content first.
+
+### 4. Functionality
+
+Highlights interactive features and behaviors.
+
+- **Example:** Buttons, search bars, forms, and dropdown menus.
+- **Contribution:** Demonstrates how users will interact with the product, guiding developers on required features.
 
 ---
 
-✨ *Together, these elements form the backbone of a wireframe, ensuring the design is user-centered, functional, and intuitive.*  
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+
+- **Definition:** Basic, minimalistic sketches or outlines that focus on foundational structure and layout.
+- **Typical Usage:** Used in early stages to quickly explore ideas, test layout hypotheses, and gather early feedback.
+- **Characteristics:**
+  - Simple shapes (boxes, lines)
+  - Limited or no detail on design elements
+  - Often hand-drawn or created with basic digital tools
+
+### High-Fidelity Wireframes
+
+- **Definition:** Detailed, refined wireframes that closely resemble the final product’s layout and structure.
+- **Typical Usage:** Used in later design stages to finalize layout, test interaction flows, and prepare for prototyping or development.
+- **Characteristics:**
+  - More precise placement and alignment
+  - Placeholder content or realistic text/images
+  - May include basic styling and annotations
+
+---
+
+## Example Analysis: “Project-Airbnb” Wireframe
+
+The wireframe in the **Project-Airbnb Figma file** is a **High-Fidelity Wireframe**.
+
+- It includes **detailed structure, realistic content, and precise alignment**.
+- The design goes beyond basic layout sketches and begins to resemble the actual product.
+- This level of detail makes it suitable for **testing user flows, validating design decisions, and preparing for the prototyping phase**.
+
+---
